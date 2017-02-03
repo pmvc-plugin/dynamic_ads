@@ -1,0 +1,19 @@
+{
+    "name": "pmvc-plugin/dynamic_ads",
+    "description": "Facebook and Google Dynamic Ads",
+    "type": "library",
+    "homepage": "https://github.com/pmvc/pmvc",
+    "keywords": ["ad", "pmvc", "plug-in"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hill",
+            "email": "hill@kimo.com"
+        }
+    ],
+    "require": {
+        "pmvc/pmvc": "*",
+        "pmvc-plugin/csv": "*"
+    },
+    "minimum-stability": "dev"
+}
